@@ -1,0 +1,48 @@
+qtepi Attribution License
+Copyright (c) 2026 qtepi
+
+This license covers the project files for this Polytoria game, which have
+been made open source. Alongside giving credit, a goal of this license is to
+make it easy for people who come across this project or its remixes to find
+their way back to the original GitHub repository.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated files (the "Project") to use, copy, modify,
+merge, remix, publish, and distribute the Project, including for creating
+your own games or builds based on it, subject to the following condition:
+
+You must give reasonable credit to the original author, qtepi, by doing
+at least one of the following:
+
+(a) Keep this license file included with the Project files, and include a
+link to the original GitHub repository:
+https://github.com/riceareseeds/qtepi-s-experimental-cars; or
+
+(b) Credit "qtepi" somewhere a player or visitor would naturally see it —
+for example, in the game's description, an in-game credits/about
+area, or a loading/menu screen. A link to the GitHub repository above
+is a bonus here, but not required — the credit itself is what
+matters; or
+
+(c) If the Project (or your remix or build of it) is used as a Polytoria
+world, place credit for "qtepi" in that world's description.
+~~~
+If you share or post about your remix or build elsewhere (such as a
+forum post, social media, or video), you don't need to repeat the
+credit there if the post includes a link that leads people to where
+the credit is already visible (e.g. a link to the world itself, or to
+the GitHub repository above). If the post doesn't include such a
+link, then credit "qtepi" directly in the post.
+~~~
+You only need to satisfy one of (a), (b), or (c) — not all three. The goal
+is simply that people encountering your version can find out the original
+was made by qtepi, and can easily find the original GitHub project if they
+want to — it doesn't need to be prominent or formal.
+
+THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE PROJECT OR THE USE
+OR OTHER DEALINGS IN THE PROJECT.
