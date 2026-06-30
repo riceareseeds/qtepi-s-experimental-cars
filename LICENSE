@@ -1,7 +1,7 @@
 qtepi Attribution License
 Copyright (c) 2026 qtepi
 
-This license covers the project files for this Polytoria game, which have
+This license covers the project files for this Polytoria world, which have
 been made open source. Alongside giving credit, a goal of this license is to
 make it easy for people who come across this project or its remixes to find
 their way back to the original GitHub repository.
@@ -9,7 +9,7 @@ their way back to the original GitHub repository.
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated files (the "Project") to use, copy, modify,
 merge, remix, publish, and distribute the Project, including for creating
-your own games or builds based on it, subject to the following condition:
+your own worlds or builds based on it, subject to the following condition:
 
 You must give reasonable credit to the original author, qtepi, by doing
 at least one of the following:
@@ -22,7 +22,7 @@ https://github.com/riceareseeds/qtepi-s-experimental-cars. This option
 is only available to open source projects; or
 
 (b) Credit "qtepi" somewhere a player or visitor would naturally see it —
-for example, in the game's description, an in-game credits/about
+for example, in the world's description, an in-game credits/about
 area, or a loading/menu screen. A link to the GitHub repository above
 is a bonus here, but not required — the credit itself is what
 matters; or
