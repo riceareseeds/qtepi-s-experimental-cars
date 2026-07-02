@@ -34,8 +34,8 @@ local function updateDebugUI(speed, touching)
 end
 
 local function getVelocityDirection()
-	local velocity = car.Velocity -- current velocity
-	local forwardVector = car.Forward -- the direction "facing"
+	local velocity = car.Velocity -- Current velocity
+	local forwardVector = car.Forward -- The direction "facing"
 
 	local dot = velocity:Dot(forwardVector)
 
@@ -54,10 +54,10 @@ local function mainLoop(dt)
 	
 	local touching = getTouchingAmount()
 	
-	if touching > 0 then -- car shouldn't move if it's not touching the ground
+	if touching > 0 then -- Car shouldn't move if it's not touching the ground
 		car.AddRelativeForce(Vector3.New(0, 0, zCtrl*POWER), Enums.ForceMode.Impulse)
 	else
-		-- allow flip if car gets stuck
+		-- Allow flip if car gets stuck
 		if math.round(car.Velocity.Magnitude*5000) == 0 then
 			car.Rotation = car.Rotation*Vector3.New(0,1,0)
 			car.Position = car.Position+Vector3.New(0,1,0)
